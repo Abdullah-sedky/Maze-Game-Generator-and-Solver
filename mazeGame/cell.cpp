@@ -2,8 +2,8 @@
 
 cell::cell(int x, int y)
 {
-	x = x;
-	y = y;
+	this->x = x;
+	this->y = y;
 	isWall = false;
 	isVisited = false;
 }
