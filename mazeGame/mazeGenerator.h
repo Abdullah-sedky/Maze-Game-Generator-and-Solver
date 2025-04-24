@@ -15,5 +15,5 @@ class mazeGenerator {
 	void generateDFS();
 	void generatePrim();
 	void printMaze();
-	vector<vector<cell>> maze; //rows of cells
+	vector<vector<cell>> maze; 
 };
